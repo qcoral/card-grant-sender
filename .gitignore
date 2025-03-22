@@ -1,0 +1,5 @@
+rust/target
+rust/src/.env
+amazon_farm/venv
+*/info
+debug_server/node_modules
